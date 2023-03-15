@@ -1,0 +1,49 @@
+h3 {
+    color: aquamarine;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-style: italic;
+} 
+h1 {
+    color: blueviolet;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    font-style: italic;
+}
+h2 { 
+    color: black;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-style: italic;
+}
+p {
+    color: aquamarine;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-style: italic;
+}
+button {
+    color: aquamarine;
+    margin-left: 500px;
+    margin-right: 450;
+    width: 100px;
+    height: 50px;
+    border: 2px solid rgb(78, 47, 47);
+    background-color: black;
+    color: brown;
+    cursor: pointer;
+    
+}
+body{
+    background-color: brown
+}
+img {
+    width: 500px;
+    height: 300px;
+    margin-left: 450px;
+    margin-right: 450px;
+}
